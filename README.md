@@ -1,6 +1,8 @@
 # Api-Rest
 Backend Java
 
+Se creo la imagen en docker, aun no hago el repositorio correspondiente
+
 Agregar User 
 Metodo POST, Mediante JSON 
 {
